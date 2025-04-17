@@ -1,0 +1,502 @@
+{
+    "premiere7": {
+        "name": "Premiere 7",
+        "url": "http://190.102.40.213/Premiere-7/video.m3u8",
+        "key": "premiere7_cyfa9w7akc7v"
+    },
+    "ae": {
+        "name": "Ae",
+        "url": "http://190.102.40.213/Ae/video.m3u8",
+        "key": "ae_fqzm1iq6o9wm"
+    },
+    "animalplanet": {
+        "name": "Animal Planet",
+        "url": "http://190.102.40.213/Animal-planet/video.m3u8",
+        "key": "animalplanet_qtyr3sb32sry"
+    },
+    "axn": {
+        "name": "Axn",
+        "url": "http://190.102.40.213/Axn/video.m3u8",
+        "key": "axn_ddjtswek32kc"
+    },
+    "bandnews": {
+        "name": "Bandnews",
+        "url": "http://190.102.40.213/Bandnews/video.m3u8",
+        "key": "bandnews_7djgfvmmx5fw"
+    },
+    "bandsports": {
+        "name": "Bandsports",
+        "url": "http://190.102.40.213/Bandsports/video.m3u8",
+        "key": "bandsports_d0g6m8urpkdz"
+    },
+    "band": {
+        "name": "Band",
+        "url": "http://190.102.40.213/Band/video.m3u8",
+        "key": "band_r4fmvywb6yof"
+    },
+    "cartoonnetwork": {
+        "name": "Cartoonnetwork",
+        "url": "http://190.102.40.213/CartoonNetwork/video.m3u8",
+        "key": "cartoonnetwork_jj7x8qeht293"
+    },
+    "cartoonito": {
+        "name": "Cartoonito",
+        "url": "http://190.102.40.213/Cartoonito/video.m3u8",
+        "key": "cartoonito_goth68qtafue"
+    },
+    "cinecanal": {
+        "name": "Cinecanal",
+        "url": "http://190.102.40.213/Cinecanal/video.m3u8",
+        "key": "cinecanal_26y0bxrt3vcm"
+    },
+    "cinemax": {
+        "name": "Cinemax",
+        "url": "http://190.102.40.213/Cinemax/video.m3u8",
+        "key": "cinemax_xja5whyl2qx8"
+    },
+    "combate": {
+        "name": "Combate",
+        "url": "http://190.102.40.213/Combate/video.m3u8",
+        "key": "combate_yfp5euyfvrh3"
+    },
+    "comedycentral": {
+        "name": "Comedy Central",
+        "url": "http://190.102.40.213/Comedy-central/video.m3u8",
+        "key": "comedycentral_cw0nra41pct9"
+    },
+    "discoverychannel": {
+        "name": "Discovery Channel",
+        "url": "http://190.102.40.213/Discovery-channel/video.m3u8",
+        "key": "discoverychannel_cksj3l6wyynd"
+    },
+    "discoveryhh": {
+        "name": "Discovery Hh",
+        "url": "http://190.102.40.213/Discovery-HH/video.m3u8",
+        "key": "discoveryhh_zbb5jx7d4cv9"
+    },
+    "discoveryid": {
+        "name": "Discovery Id",
+        "url": "http://190.102.40.213/Discovery-Id/video.m3u8",
+        "key": "discoveryid_e4p3i03sf1zw"
+    },
+    "discoverykids": {
+        "name": "Discovery Kids",
+        "url": "http://190.102.40.213/Discovery-kids/video.m3u8",
+        "key": "discoverykids_03plalvrahz2"
+    },
+    "discoveryscience": {
+        "name": "Discoveryscience",
+        "url": "http://190.102.40.213/Discoveryscience/video.m3u8",
+        "key": "discoveryscience_vc16org4azc2"
+    },
+    "discoverytheater": {
+        "name": "Discovery Theater",
+        "url": "http://190.102.40.213/Discovery-Theater/video.m3u8",
+        "key": "discoverytheater_sq4j3a9bnnuq"
+    },
+    "discoveryturbo": {
+        "name": "Discovery Turbo",
+        "url": "http://190.102.40.213/Discovery-turbo/video.m3u8",
+        "key": "discoveryturbo_hnv2quwtsqq6"
+    },
+    "discoveryworld": {
+        "name": "Discovery World",
+        "url": "http://190.102.40.213/Discovery-World/video.m3u8",
+        "key": "discoveryworld_cbqmtkewzpnd"
+    },
+    "disneychannel": {
+        "name": "Disneychannel",
+        "url": "http://190.102.40.213/DisneyChannel/video.m3u8",
+        "key": "disneychannel_4oe3r8tzwdo3"
+    },
+    "espn2": {
+        "name": "Espn 2",
+        "url": "http://190.102.40.213/Espn-2/video.m3u8",
+        "key": "espn2_09vml8bpk5mr"
+    },
+    "espn3": {
+        "name": "Espn 3",
+        "url": "http://190.102.40.213/Espn-3/video.m3u8",
+        "key": "espn3_hkb4ih15f3hn"
+    },
+    "espn4": {
+        "name": "Espn 4",
+        "url": "http://190.102.40.213/Espn-4/video.m3u8",
+        "key": "espn4_nn63hll5n3f7"
+    },
+    "espn5": {
+        "name": "Espn 5",
+        "url": "http://190.102.40.213/Espn-5/video.m3u8",
+        "key": "espn5_2kdixh5mg2u1"
+    },
+    "espn6": {
+        "name": "Espn 6",
+        "url": "http://190.102.40.213/Espn-6/video.m3u8",
+        "key": "espn6_0t69symp7x3p"
+    },
+    "espn": {
+        "name": "Espn",
+        "url": "http://190.102.40.213/Espn/video.m3u8",
+        "key": "espn_zoazbbe7q6o3"
+    },
+    "fx": {
+        "name": "Fx",
+        "url": "http://190.102.40.213/Fx/video.m3u8",
+        "key": "fx_qs7cq2olg256"
+    },
+    "globobrasilia": {
+        "name": "Globo Brasilia",
+        "url": "http://190.102.40.213/Globo-Brasilia/video.m3u8",
+        "key": "globobrasilia_gndeqd7kgwwd"
+    },
+    "intertv": {
+        "name": "Intertv",
+        "url": "http://190.102.40.213/Intertv/video.m3u8",
+        "key": "intertv_2k3bay8q7o84"
+    },
+    "globomg": {
+        "name": "Globomg",
+        "url": "http://190.102.40.213/Globomg/video.m3u8",
+        "key": "globomg_8ljs0putnloe"
+    },
+    "globorj": {
+        "name": "Globorj",
+        "url": "http://190.102.40.213/Globorj/video.m3u8",
+        "key": "globorj_xpa9ailf0ks7"
+    },
+    "globosp": {
+        "name": "Globosp",
+        "url": "http://190.102.40.213/Globosp/video.m3u8",
+        "key": "globosp_emg2gz6ktz46"
+    },
+    "gnt": {
+        "name": "Gnt",
+        "url": "http://190.102.40.213/Gnt/video.m3u8",
+        "key": "gnt_05jz1hsv2oh8"
+    },
+    "hbo2": {
+        "name": "Hbo2",
+        "url": "http://190.102.40.213/Hbo2/video.m3u8",
+        "key": "hbo2_uw49p29qznv4"
+    },
+    "hbofamily": {
+        "name": "Hbo Family",
+        "url": "http://190.102.40.213/Hbo-family/video.m3u8",
+        "key": "hbofamily_hwa2wu67q64h"
+    },
+    "hbo": {
+        "name": "Hbo",
+        "url": "http://190.102.40.213/Hbo/video.m3u8",
+        "key": "hbo_ud5otku8cvmh"
+    },
+    "hboplus": {
+        "name": "Hbo Plus",
+        "url": "http://190.102.40.213/Hbo-plus/video.m3u8",
+        "key": "hboplus_2pvimxzrt9i6"
+    },
+    "hboxtreme": {
+        "name": "Hbo Xtreme",
+        "url": "http://190.102.40.213/Hbo-Xtreme/video.m3u8",
+        "key": "hboxtreme_xs4jmu3n7nkh"
+    },
+    "hgtv": {
+        "name": "Hgtv",
+        "url": "http://190.102.40.213/Hgtv/video.m3u8",
+        "key": "hgtv_zj4tc4rql7be"
+    },
+    "history2": {
+        "name": "History 2",
+        "url": "http://190.102.40.213/History-2/video.m3u8",
+        "key": "history2_eytxe4q0c9md"
+    },
+    "history": {
+        "name": "History",
+        "url": "http://190.102.40.213/History/video.m3u8",
+        "key": "history_qg4dk9o4k60e"
+    },
+    "lifetime": {
+        "name": "Lifetime",
+        "url": "http://190.102.40.213/Lifetime/video.m3u8",
+        "key": "lifetime_kgme54ig88nn"
+    },
+    "masterchefebrasil": {
+        "name": "Masterchefebrasil",
+        "url": "http://190.102.40.213/Masterchefebrasil/video.m3u8",
+        "key": "masterchefebrasil_ph1axadvjspc"
+    },
+    "megapix": {
+        "name": "Megapix",
+        "url": "http://190.102.40.213/Megapix/video.m3u8",
+        "key": "megapix_t7m4gz0gd055"
+    },
+    "moviesphere": {
+        "name": "Moviesphere",
+        "url": "http://190.102.40.213/Moviesphere/video.m3u8",
+        "key": "moviesphere_wbdole76i396"
+    },
+    "mtv": {
+        "name": "Mtv",
+        "url": "http://190.102.40.213/Mtv/video.m3u8",
+        "key": "mtv_0y5d95rk3f78"
+    },
+    "mtvlive": {
+        "name": "Mtv Live",
+        "url": "http://190.102.40.213/Mtv-Live/video.m3u8",
+        "key": "mtvlive_z19a1omyhtrw"
+    },
+    "multishow": {
+        "name": "Multishow",
+        "url": "http://190.102.40.213/Multishow/video.m3u8",
+        "key": "multishow_lh5jkla7fshx"
+    },
+    "natgeo": {
+        "name": "Natgeo",
+        "url": "http://190.102.40.213/Natgeo/video.m3u8",
+        "key": "natgeo_0oweklisd32d"
+    },
+    "nickjr": {
+        "name": "Nick Jr",
+        "url": "http://190.102.40.213/Nick-jr/video.m3u8",
+        "key": "nickjr_8bw4watb4ik4"
+    },
+    "nick": {
+        "name": "Nick",
+        "url": "http://190.102.40.213/Nick/video.m3u8",
+        "key": "nick_wjcbx8xbf7yg"
+    },
+    "paramount": {
+        "name": "Paramount",
+        "url": "http://190.102.40.213/Paramount/video.m3u8",
+        "key": "paramount_09hn3m7fbs0q"
+    },
+    "premiere2": {
+        "name": "Premiere 2",
+        "url": "http://190.102.40.213/Premiere-2/video.m3u8",
+        "key": "premiere2_upsuahhn426v"
+    },
+    "premiere3": {
+        "name": "Premiere 3",
+        "url": "http://190.102.40.213/Premiere-3/video.m3u8",
+        "key": "premiere3_ceg0u00a5h72"
+    },
+    "premiere4": {
+        "name": "Premiere 4",
+        "url": "http://190.102.40.213/Premiere-4/video.m3u8",
+        "key": "premiere4_544i1qx90e6h"
+    },
+    "premiere5": {
+        "name": "Premiere 5",
+        "url": "http://190.102.40.213/Premiere-5/video.m3u8",
+        "key": "premiere5_6be8duijckw8"
+    },
+    "premiere6": {
+        "name": "Premiere 6",
+        "url": "http://190.102.40.213/Premiere-6/video.m3u8",
+        "key": "premiere6_ibgyd0dvunl0"
+    },
+    "premiere8": {
+        "name": "Premiere 8",
+        "url": "http://190.102.40.213/Premiere-8/video.m3u8",
+        "key": "premiere8_mqvanwypj453"
+    },
+    "premiereclubes": {
+        "name": "Premiereclubes",
+        "url": "http://190.102.40.213/Premiereclubes/video.m3u8",
+        "key": "premiereclubes_3klcmuuqlt34"
+    },
+    "recordnews": {
+        "name": "Record News",
+        "url": "http://190.102.40.213/Record-News/video.m3u8",
+        "key": "recordnews_mfwmr1f0sfvm"
+    },
+    "record": {
+        "name": "Record",
+        "url": "http://190.102.40.213/Record/video.m3u8",
+        "key": "record_0t7u5xcskv7b"
+    },
+    "redetv": {
+        "name": "Rede Tv",
+        "url": "http://190.102.40.213/Rede-Tv/video.m3u8",
+        "key": "redetv_x0d191e7arby"
+    },
+    "runtimeacao": {
+        "name": "Runtimeacao",
+        "url": "http://190.102.40.213/Runtimeacao/video.m3u8",
+        "key": "runtimeacao_w5vcfh6ax9m8"
+    },
+    "runtimesuspense": {
+        "name": "Runtimesuspense",
+        "url": "http://190.102.40.213/Runtimesuspense/video.m3u8",
+        "key": "runtimesuspense_kvwgtm5wahmq"
+    },
+    "runtimecomedia": {
+        "name": "Runtimecomedia",
+        "url": "http://190.102.40.213/Runtimecomedia/video.m3u8",
+        "key": "runtimecomedia_46djrjqh24rb"
+    },
+    "runtimecrime": {
+        "name": "Runtimecrime",
+        "url": "http://190.102.40.213/RuntimeCrime/video.m3u8",
+        "key": "runtimecrime_gq0ib9qgggxz"
+    },
+    "runtimefamilia": {
+        "name": "Runtimefamilia",
+        "url": "http://190.102.40.213/Runtimefamilia/video.m3u8",
+        "key": "runtimefamilia_s0df5wkeyjtg"
+    },
+    "runtimeromance": {
+        "name": "Runtimeromance",
+        "url": "http://190.102.40.213/RuntimeRomance/video.m3u8",
+        "key": "runtimeromance_j5anti7sa29w"
+    },
+    "runtimetv": {
+        "name": "Runtimetv",
+        "url": "http://190.102.40.213/RuntimeTv/video.m3u8",
+        "key": "runtimetv_hk9krft78f36"
+    },
+    "sbtbrasilia": {
+        "name": "Sbt Brasilia",
+        "url": "http://190.102.40.213/Sbt-Brasilia/video.m3u8",
+        "key": "sbtbrasilia_aulr71lze7mr"
+    },
+    "sbtcentral": {
+        "name": "Sbt Central",
+        "url": "http://190.102.40.213/Sbt-Central/video.m3u8",
+        "key": "sbtcentral_rj3sh8hdao3p"
+    },
+    "sbtrio": {
+        "name": "Sbt Rio",
+        "url": "http://190.102.40.213/Sbt-Rio/video.m3u8",
+        "key": "sbtrio_v77g9u8p31z1"
+    },
+    "sony": {
+        "name": "Sony",
+        "url": "http://190.102.40.213/Sony/video.m3u8",
+        "key": "sony_zj39egym13kz"
+    },
+    "space": {
+        "name": "Space",
+        "url": "http://190.102.40.213/Space/video.m3u8",
+        "key": "space_s5w77h9z5v7g"
+    },
+    "sportv2": {
+        "name": "Sportv 2",
+        "url": "http://190.102.40.213/Sportv-2/video.m3u8",
+        "key": "sportv2_8p38ynmkvkv7"
+    },
+    "sportv3": {
+        "name": "Sportv 3",
+        "url": "http://190.102.40.213/Sportv-3/video.m3u8",
+        "key": "sportv3_zq679b7lsms8"
+    },
+    "sportv": {
+        "name": "Sportv",
+        "url": "http://190.102.40.213/Sportv/video.m3u8",
+        "key": "sportv_pvof6ujnj2jj"
+    },
+    "starchannel": {
+        "name": "Starchannel",
+        "url": "http://190.102.40.213/Starchannel/video.m3u8",
+        "key": "starchannel_j5knymx8bvdn"
+    },
+    "studiouniversal": {
+        "name": "Studio Universal",
+        "url": "http://190.102.40.213/Studio-universal/video.m3u8",
+        "key": "studiouniversal_x39qf2e3ueyo"
+    },
+    "tcm": {
+        "name": "Tcm",
+        "url": "http://190.102.40.213/Tcm/video.m3u8",
+        "key": "tcm_sf0lrp022ix9"
+    },
+    "telecineaction": {
+        "name": "Telecine Action",
+        "url": "http://190.102.40.213/Telecine-Action/video.m3u8",
+        "key": "telecineaction_lry7pqm47p2f"
+    },
+    "telecinecult": {
+        "name": "Telecine Cult",
+        "url": "http://190.102.40.213/Telecine-Cult/video.m3u8",
+        "key": "telecinecult_pzfhb7wpx7s3"
+    },
+    "telecinefun": {
+        "name": "Telecine Fun",
+        "url": "http://190.102.40.213/Telecine-Fun/video.m3u8",
+        "key": "telecinefun_ye1ekhcue080"
+    },
+    "telecinepipoca": {
+        "name": "Telecine Pipoca",
+        "url": "http://190.102.40.213/Telecine-Pipoca/video.m3u8",
+        "key": "telecinepipoca_600lrwo8w4oz"
+    },
+    "telecinepremium": {
+        "name": "Telecine Premium",
+        "url": "http://190.102.40.213/Telecine-Premium/video.m3u8",
+        "key": "telecinepremium_dhq4l2ogkbf6"
+    },
+    "telecinetouch": {
+        "name": "Telecine Touch",
+        "url": "http://190.102.40.213/Telecine-Touch/video.m3u8",
+        "key": "telecinetouch_rsfg9yetdjm8"
+    },
+    "tlc": {
+        "name": "Tlc",
+        "url": "http://190.102.40.213/Tlc/video.m3u8",
+        "key": "tlc_7ldda4m7wp8r"
+    },
+    "tnt": {
+        "name": "Tnt",
+        "url": "http://190.102.40.213/Tnt/video.m3u8",
+        "key": "tnt_ymh0g5n81c7y"
+    },
+    "tntnovelas": {
+        "name": "Tnt Novelas",
+        "url": "http://190.102.40.213/Tnt-novelas/video.m3u8",
+        "key": "tntnovelas_uqa3duuxps3w"
+    },
+    "tntseries": {
+        "name": "Tntseries",
+        "url": "http://190.102.40.213/Tntseries/video.m3u8",
+        "key": "tntseries_af4ec0mftjmo"
+    },
+    "universal": {
+        "name": "Universal",
+        "url": "http://190.102.40.213/Universal/video.m3u8",
+        "key": "universal_atjkq1ei6qfg"
+    },
+    "usa": {
+        "name": "Usa",
+        "url": "http://190.102.40.213/Usa/video.m3u8",
+        "key": "usa_ap7qekfcmkez"
+    },
+    "viva": {
+        "name": "Viva",
+        "url": "http://190.102.40.213/Viva/video.m3u8",
+        "key": "viva_u9vnxzsvxhlp"
+    },
+    "warner": {
+        "name": "Warner",
+        "url": "http://190.102.40.213/Warner/video.m3u8",
+        "key": "warner_76039yknnotb"
+    },
+    "tvaparecida": {
+        "name": "Tvaparecida",
+        "url": "http://190.102.40.213/TvAparecida/video.m3u8",
+        "key": "tvaparecida_grdh52hwwvfs"
+    },
+    "cancaonova": {
+        "name": "Cancao Nova",
+        "url": "http://190.102.40.213/Cancao-Nova/video.m3u8",
+        "key": "cancaonova_qg7f36duuomg"
+    },
+    "bbb": {
+        "name": "Bbb",
+        "url": "http://190.102.40.213/BBB/video.m3u8",
+        "key": "bbb_nkg2bgswp7yr"
+    },
+    "toptv": {
+        "name": "Toptv",
+        "url": "http://190.102.40.213/Toptv/video.m3u8",
+        "key": "toptv_mgj7js1qi8a4"
+    }
+}
